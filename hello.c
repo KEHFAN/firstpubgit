@@ -1,9 +1,8 @@
 #include "stdio.h"
+#include "stdlib.h"
 int main(){
 	printf("fkdsjgdjgsjglsdkfgjldkfhj");
-	
 	printf("hello world");
-	
 	printf("fkdslgj");
 	printf("dierci");
 	printf("nihao");
